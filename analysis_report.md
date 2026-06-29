@@ -1,6 +1,6 @@
 # Sales Data Analysis using Python and Pandas
 
-**Author:** Bammidi Ramya Jyothi 
+**Author:** Bammidi Ramya Jyothi               
 **Internship Week:** Week 3 – Introduction to Data Analysis – Working with Real Data  
 **Programming Language:** Python  
 **Development Environment:** Spyder (Anaconda)  
