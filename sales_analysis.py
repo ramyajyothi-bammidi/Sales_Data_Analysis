@@ -139,7 +139,7 @@ region_sales = df.groupby("Region")["Total_Sales"].sum()
 best_region = region_sales.idxmax()
 
 # Customer-wise Sales
-customer_sales = df.groupby("Customer")["Total_Sales"].sum()
+customer_sales = df.groupby("Customer_ID")["Total_Sales"].sum()
 
 top_customer = customer_sales.idxmax()
 top_customer_sales = customer_sales.max()
