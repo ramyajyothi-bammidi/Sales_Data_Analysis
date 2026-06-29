@@ -2,7 +2,7 @@
 =========================================================
 Project Title : Sales Data Analysis
 Week          : Week 3 - Introduction to Data Analysis
-Author        : Your Name
+Author        : Bammidi Ramya Jyothi
 
 Description:
 This project analyzes a sales dataset using the Pandas
